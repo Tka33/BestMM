@@ -1,4 +1,4 @@
-# BestMM
+# Tash's Macro Mod
 The best macro mod is now for free!
 
 Features:
